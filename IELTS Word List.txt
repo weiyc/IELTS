@@ -16,7 +16,6 @@ README
 
 Word List 01
 emperor   /ˈempərə(r)/ n. 皇帝；君主
-exact*    /ɪgˈzækt/    a. 精确的；准确的
 traditional* [trəˈdɪʃənl] a. 传统的，惯例的；口传的，传说的
 lack*     /læk/        n./vt. 缺乏，不足，没有
 pardon*   /ˈpɑːdn/     excl.（用于请求别人重复某事）什么，请再说一遍 n./vt. 原谅，宽恕；赦免
